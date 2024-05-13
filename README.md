@@ -1,3 +1,4 @@
-# Generalisierte Regressionsmodelle
+# Modeling the Dynamics of Financial Markets
 
-This repository is for the course of summer term 2024 for the master-seminar in finance.
+
+This repository captures the most important exercises of the lecture Modeling the Dynamics of Financial Markets, held at KIT Karlsruhe in the summer semester 2024.
